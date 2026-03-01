@@ -261,6 +261,18 @@ footer img {
     width: 500px;
     height: 500px;
   }
+  .project-card img {
+  color: var(--primary-color);
+  text-decoration: none;
+  filter: grayscale(60%);
+  filter: blur(4px);
+}
+.project-card img:hover {
+  filter: grayscale(0%);
+  filter: blur(0px);
+  transition: filter 0.2s ease-out;
+}
+
 }
 
 @media (min-width: 768px) and (hover: none) {
@@ -358,14 +370,3 @@ footer img {
 
 }
 
-.project-card img {
-  color: var(--primary-color);
-  text-decoration: none;
-  filter: grayscale(60%);
-  filter: blur(4px);
-}
-.project-card img:hover {
-  filter: grayscale(0%);
-  filter: blur(0px);
-  transition: filter 0.2s ease-out;
-}
