@@ -1,5 +1,5 @@
 {
-  "name": "odin-template",
+  "name": "odin-homepage",
   "version": "1.0.0",
   "type": "module",
   "description": "",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devoid-of-thought/odin-template.git"
+    "url": "git+https://github.com/devoid-of-thought/odin-homepage.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "devoid-of-thought",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devoid-of-thought/odin-template/issues"
+    "url": "https://github.com/devoid-of-thought/odin-homepage/issues"
   },
-  "homepage": "https://github.com/devoid-of-thought/odin-template#readme",
+  "homepage": "https://github.com/devoid-of-thought/odin-homepage#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.29.0",
     "css-loader": "^7.1.4",
