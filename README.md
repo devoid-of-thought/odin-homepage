@@ -18,12 +18,8 @@ Tablet Layout:
 
 Mobile layout: 
 
-<div style="display: flex; justify-content:space-between; align-items:center;">
-<img src="mobile.png" style="height: 300px; width: 150px; object-fit: cover; object-position:top;">
-<img src="mobile.png" style="height: 300px; width: 150px; object-fit: cover; ">
- <img src="mobile.png" style="height: 300px; width: 150px; object-fit: cover; object-position:bottom;">
+![Mobile](mobile.png)
 
-</div>
 ## Live Preview 
 
-To see this website live click this [Link](https://devoid-of-thought.github.io/odin-weather-forecast/)
+To see this website live click this [Link](https://devoid-of-thought.github.io/odin-homepage/)
